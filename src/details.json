@@ -1,0 +1,59 @@
+{
+    "language": "fr",
+    "sections": {
+        "acceuil": "Acceuil",
+        "temoignages": "Temoignage",
+        "quiSommesNous": "Qui sommes nous",
+        "gallerie": "Gallerie",
+        "contact": "Contact"
+    },
+    "company": "France Occasion",
+    "description": " Situé dans la zone des PLAINES, à 2 min de la GARE TGV DE VALENCE DIRECTION ROMANS, le garage FRANCE OCCASION vous propose une large gamme de véhicules d'occasion toutes marques et tout budgets. En plus de notre stock de véhicules disponibles immédiatement au sein de notre parc automobile, notre partenariat depuis plus de 10 ans avec différents fournisseurs, nous permet de vous proposer d'autres occasions que celles affichées sur notre site. Nous nous adaptons à vos critères de sélection. Tous nos véhicules sont vendus, révisés, et garantis de 3 à 36 mois, avec toujours la possibilité de reprise de votre ancien véhicule. N'hésitez pas à nous contacter pour plus d'information. Nous nous ferons un plaisir de vous renseigner de manière la plus précise.",
+    "subtitle": "Achat et vente de voitures D'occasions service carte grise vendeur de voitures d'occasions a Saint-marcel-les-valence dans la drome Ouvre à 10:30",
+    "images": [
+        "./public/carousel/1.jpg",
+        "./public/carousel/2.jpg",
+        "./public/carousel/3.jpg",
+        "./public/carousel/4.jpg",
+        "./public/carousel/5.jpg",
+        "./public/carousel/6.jpg"
+    ],
+    "reviews": [
+        {
+            "author": "John Doe",
+            "rating": 5,
+            "text": "Excellent service, highly recommended!"
+        },
+        {
+            "author": "Jane Smith",
+            "rating": 4,
+            "text": "Very helpful staff and great selection of products."
+        }
+    ],
+    "phoneNumber": "123-456-7890",
+    "address": "123 Main St, City, Country",
+    "openingHours": {
+        "Monday": "9am - 5pm",
+        "Tuesday": "9am - 5pm",
+        "Wednesday": "9am - 5pm",
+        "Thursday": "9am - 5pm",
+        "Friday": "9am - 5pm",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+    },
+    "labels": {
+        "aboutUsTitle": "Qui sommes nous",
+        "galleryTitle": "Gallerie",
+        "testimonialsTitle": "TÉMOIGNAGES",
+        "contactUsTitle": "NOUS CONTACTER",
+        "writeReviewButton": "Rédigez un avis",
+        "learnMoreButton": "En savoir plus",
+        "callUsButton": "Appelez nous",
+        "directionsButton": "Itinéraire",
+        "openingHoursTitle": "Horaires d'ouverture",
+        "coordinatesTitle": "Coordonnées",
+        "addressTitle": "Adresse",
+        "poweredBy": "Powered by Us",
+        "footerPhotoCredit": "Photo d'en tête par"
+      }
+}
